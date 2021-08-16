@@ -1,3 +1,11 @@
+<div class="vertical-menu">
+  <a href="#" class="active">Home</a>
+  <a href="#">Link 1</a>
+  <a href="#">Link 2</a>
+  <a href="#">Link 3</a>
+  <a href="#">Link 4</a>
+</div>
+
 # Mapbiomas Brazil on github
 
 > Here is available all the scripts used for processing collection 5 of mapbiomas.
