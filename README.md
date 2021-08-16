@@ -1,5 +1,5 @@
 <!-- <embed type="text/html" src="https://mapbiomas-brazil.github.io/" width="500" height="200"> -->
-<iframe src="https://mapbiomas-brazil.github.io/"></iframe>
+<object type="text/html" data="https://mapbiomas-brazil.github.io/"></object>
 <!-- ### Hi there 👋
 
 <!--
