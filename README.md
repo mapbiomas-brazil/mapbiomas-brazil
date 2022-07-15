@@ -14,6 +14,7 @@
 
 ### Cross Cuting themes
 * [Agriculture](https://github.com/mapbiomas-brazil/agriculture)
+* [Irrigated Agriculture](https://github.com/mapbiomas-brazil/irrigation)
 * [Aquaculture](https://github.com/mapbiomas-brazil/aquaculture)
 * [Coastal Zone](https://github.com/mapbiomas-brazil/coastal-zone)
 * [Forest Plantation](https://github.com/mapbiomas-brazil/forest-plantation)
